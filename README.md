@@ -9,7 +9,6 @@ The To-Do List Application is a React-based app designed for managing tasks. It 
 - **Add Task:** Users can add new tasks with a title and description.
 - **Display Tasks:** Tasks are listed with their title and description.
 - **Delete Task:** Users can remove tasks by clicking the delete button on each task card.
-- **Visual Separation:** Tasks are separated by horizontal lines for better readability.
 
 ## Installation
 
@@ -18,7 +17,7 @@ The To-Do List Application is a React-based app designed for managing tasks. It 
 - **Node.js:** Ensure that Node.js (LTS version recommended) is installed on your machine.
 - **npm:** Node Package Manager (comes with Node.js).
 
-### Usage
+## Usage
 
 - **Add a Task:**
 Enter a title and description in the input fields.
